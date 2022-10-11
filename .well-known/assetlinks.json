@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pintoverflow.recipes",
+      "sha256_cert_fingerprints": [
+        "58:21:E8:A8:D7:66:4D:22:E3:12:E7:F7:BF:69:4E:F8:27:CE:6E:0E:52:03:34:5C:54:22:AC:3F:E0:F9:A5:E3"
+      ]
+    }
+  }
+]
